@@ -1,4 +1,5 @@
-# Table of contents
+# Summary
 
 * [¡Bienvenid@s!](README.md)
-* [Charlas](temas.md)
+* [Charlas](charlas.md)
+
